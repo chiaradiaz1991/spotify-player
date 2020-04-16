@@ -1,0 +1,41 @@
+
+.now-playing-name {
+	font-size: 1.5em;
+	margin-bottom: 0.2em;
+}
+
+.now-playing-artist {
+	margin-bottom: 1em;
+}
+
+.now-playing-status {
+	margin-bottom: 1em;
+}
+
+.now-playing {
+	float: left;
+	margin-right: 10px;
+	text-align: right;
+	width: 45%;
+}
+
+.now-playing img {
+	max-width: 80vmin;
+	width: 100%;
+}
+
+.now-playing-side {
+	margin-left: 5%;
+	width: 45%;
+}
+
+.progress {
+	border: 1px solid #eee;
+  height: 6px;
+  border-radius: 3px;
+  overflow: hidden;
+}
+.progress-bar {
+	background-color: #eee;
+  height: 4px;
+}
